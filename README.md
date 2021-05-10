@@ -4,7 +4,7 @@ My main interests are **Machine Learning/Deep Learning** and their applications 
 
 🌱 I’m currently learning Data Structures and Algorithms.<br /><br />
 
-Some of the works i have done:
+Some of the works I have done:
 
 - I have worked with **Python**, built a web application [ML-Web](https://github.com/gurkandyilmaz/ml-website) that hosts trained machine learning models. I had used **Django**, **Scikit-learn**, **Numpy**.
 - In another side project, I built a web application [Turkish Sentiment Analyzer](https://github.com/gurkandyilmaz/sentiment) by using **Flask**, **Tensorflow 2**, and **Keras**.
