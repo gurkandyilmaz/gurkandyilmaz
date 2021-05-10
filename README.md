@@ -1,6 +1,6 @@
 ## Hi 👋 I am Gurkan.
 
-My main interests are Machine Learning/Deep Learning and their applications in Natural Language Processing and Computer Vision.<br /><br />
+My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing** and **Computer Vision**.<br /><br />
 
 🌱 I’m currently learning Data Structures and Algorithms.<br /><br />
 
