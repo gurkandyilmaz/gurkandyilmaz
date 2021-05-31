@@ -2,7 +2,7 @@
 
 My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing** and **Computer Vision**.<br /><br />
 
-🌱 I’m currently learning Data Structures and Algorithms.<br /><br />
+🌱 I’m currently participating kaggle competitions.<br /><br />
 
 Some of the works I have done:
 
@@ -11,13 +11,11 @@ Some of the works I have done:
 - Yet in another side project, I built another web application [Character Based Language Generation](https://github.com/gurkandyilmaz/language_generation) that generates a text based on the trained model in a character level. **Tensorflow** and **Keras** were used.
 - And lastly, I made a data visualization app [Data Visualization](https://github.com/gurkandyilmaz/data_visualization) with again **Flask**. It is inspired from pandas profiling library but it is a way simpler version.
 
-- I have also been working with **C/C++** to study the Data structures and Algorithms.<br /><br />
-
- 
+<!-- 
 ## 💻 Work Stats
 
 ![Gurkans's Github stats](https://github-readme-stats.vercel.app/api?username=gurkandyilmaz&show_icons=true)
-
+-->
 
 <!--
 - 🔭 I’m currently working on ...
