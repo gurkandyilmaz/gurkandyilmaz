@@ -1,6 +1,6 @@
 ## Hi 👋 I am Gürkan.
 
-My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing** and **Computer Vision**.<br /><br />
+My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing**, **Recommendation Systems** and Computer Vision (in the near future).<br /><br />
 
 🌱 I’m currently participating kaggle competitions.<br /><br />
 
