@@ -2,7 +2,7 @@
 
 My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing**, **Recommendation Systems** and Computer Vision (in the near future).<br /><br />
 
-🌱 I’m currently participating kaggle competitions.<br /><br />
+🌱 I’m currently participating in Data Science Bootcamps and kaggle competitions.<br /><br />
 
 Some of the works I have done:
 
