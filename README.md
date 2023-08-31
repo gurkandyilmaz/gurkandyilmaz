@@ -1,8 +1,7 @@
 ## Hi 👋 I am Gürkan.
 
 My main interests are **Machine Learning/Deep Learning** and their applications in **Natural Language Processing**, **Recommendation Systems** and Computer Vision (in the near future).<br /><br />
-
-🌱 I’m currently participating in Data Science Bootcamps and kaggle competitions.<br /><br />
+My goal is to build software products driven by data containing machine learning models. I am interested in participating machine learning projects from the beginning to the end i.e. from developing prototypes to deploying models.
 
 Some of the works I have done:
 
